@@ -2,7 +2,7 @@
 
 <!-- Profile Header with Animated Girl -->
 <div align="center">
-  <img src=""C:\Users\sara\Downloads\Woman Coding GIF by Pluralsight.gif"" width="250" alt="Animated Girl"/>
+  <img src="["C:\Users\sara\Downloads\Woman Coding GIF by Pluralsight.gif"](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl6dXN4bmY4dGlyYXd1OW54bjVhZWlpN3B1cmV3YjhmMXZ1aWZseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="250" alt="Animated Girl"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+Welcome+to+my+GitHub!;I'm+Sarah%2C+AI+%26+Avionics+Enthusiast;Building+cool+projects+and+learning+daily!)](https://git.io/typing-svg)
 </div>
