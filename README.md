@@ -10,5 +10,5 @@
 - **Languages:** Python, C, Java  
 - **Hardware:** Arduino, FPGA, Sensors  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahT&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahGit345&show_icons=true&theme=radical)
 
